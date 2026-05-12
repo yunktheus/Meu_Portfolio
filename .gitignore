@@ -1,0 +1,24 @@
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores / ferramentas
+.vscode/
+.idea/
+.claude/
+*.swp
+*.swo
+
+# Vercel
+.vercel
+.env*.local
+
+# Logs / dependências
+node_modules/
+*.log
+
+# Material de proposta/briefing (não vai pro repo público)
+Proposta e Briefing/
+
+.vercel
